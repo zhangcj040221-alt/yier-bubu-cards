@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="theme-color" content="#181329"/>
+<title>一二布布 · 镀闪卡牌实验室</title>
+<link rel="stylesheet" href="./styles.css"/>
+<script type="importmap">
+{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.180.0/build/three.module.js"}}
+</script>
+</head>
+<body>
+<main>
+  <header class="intro">
+    <div class="eyebrow">YIER × BUBU / CARD LAB</div>
+    <h1>把可爱，收藏进会发光的卡牌。</h1>
+    <p>方案 C · 立体景深 × 整张卡面镀闪。轻触或移动光标，观察视差和光泽。</p>
+    <span class="notice">原画尚未导入 · 当前角色为技术占位图</span>
+  </header>
+  <section class="preview">
+    <div class="stage" id="stage"><div class="loading">正在准备 3D 预览…</div></div>
+    <div class="controls">
+      <label class="heading">同一角色 · 两种主题配色</label><div class="variants" id="variants"></div>
+      <label class="level" for="foil">卡面镀闪强度 <output id="level">65%</output></label>
+      <input id="foil" type="range" min="0" max="100" value="65"/>
+      <p>卡框保持香槟金属质感；镀闪作用于**画面**，不是把卡框变成水晶。</p>
+    </div>
+  </section>
+  <footer><strong>一个渲染器，多张卡牌。</strong><p>数据决定角色、主题色与名称；Shader、光照、卡框和交互由公共模块提供。正式素材须在美术验收后接入。</p></footer>
+</main>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>

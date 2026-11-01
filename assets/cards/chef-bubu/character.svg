@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 570">
+<!-- TECHNICAL PREVIEW ONLY: not an approved/official character master -->
+<g stroke="#5d352b" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+<path d="M144 353L129 451Q143 473 178 456L198 406ZM274 411L293 463Q321 475 330 452L304 354Z" fill="#bd8569"/>
+<path d="M145 327L99 302Q78 307 82 332L151 382Z" fill="#fffaf5"/>
+<path d="M294 333L345 327Q377 337 364 363L305 387Z" fill="#fffaf5"/>
+<path d="M150 349Q230 317 313 349L319 435Q239 470 145 436Z" fill="#fffaf5"/>
+<path d="M166 391L294 390L288 438Q226 454 173 436Z" fill="#fffdf8" stroke-width="4"/>
+<path d="M221 358L227 390 244 358" fill="#e35d4d"/>
+<path d="M225 373Q193 349 183 374Q199 393 226 379ZM239 379Q266 355 283 374Q268 393 239 378Z" fill="#ed6857" stroke-width="5"/>
+<path d="M177 111Q153 63 121 87Q77 81 83 122Q75 154 108 173Q125 214 154 209Q225 236 307 203Q361 211 361 165Q396 132 366 104Q358 67 322 82Q294 36 252 73Q205 42 177 111Z" fill="#fafafd"/>
+<path d="M124 175Q232 159 340 178L334 207Q220 219 131 207Z" fill="#faf8f5"/>
+<circle cx="128" cy="223" r="35" fill="#cc9273"/><circle cx="335" cy="221" r="35" fill="#cc9273"/>
+<circle cx="127" cy="223" r="18" fill="#76523d"/><circle cx="336" cy="221" r="18" fill="#76523d"/>
+<path d="M225 186C330 183 355 250 347 303Q337 382 227 387C110 382 111 314 111 281C111 228 145 185 225 186Z" fill="#cd9577"/>
+<path d="M220 322Q231 339 242 321Q242 344 229 346Q211 343 220 322Z" fill="#ff9b95" stroke-width="4"/>
+</g>
+<g fill="#fac47e"><circle cx="157" cy="316" r="25"/><circle cx="301" cy="314" r="25"/></g>
+<g fill="#412920"><circle cx="191" cy="282" r="10"/><circle cx="271" cy="282" r="10"/></g>
+<g stroke="#5d352b" stroke-width="6" stroke-linecap="round">
+<path d="M222 321Q231 331 239 320" fill="none"/>
+<g transform="translate(88 335) rotate(-17)">
+<rect x="-10" y="-110" width="20" height="131" rx="6" fill="#e88973"/>
+<rect x="-31" y="-165" width="62" height="67" rx="11" fill="#c5c5cf"/>
+<path d="M-14-149V-116M0-149V-116M14-149V-116" fill="none"/>
+</g>
+<g transform="translate(360 349)">
+<path d="M-27 2Q40 28 88-2L73-29Q30-34-27-21Z" fill="#4c444b"/>
+<path d="M84-8L135-21" fill="none" stroke-width="12"/>
+</g>
+</g>
+<g fill="#f5b849"><circle cx="359" cy="296" r="10"/><circle cx="395" cy="315" r="11"/><circle cx="379" cy="269" r="8"/></g>
+<g fill="#8eb960"><circle cx="355" cy="321" r="7"/><circle cx="407" cy="290" r="6"/></g>
+</svg>

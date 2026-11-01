@@ -1,0 +1,1 @@
+{"name":"yier-bubu-cards","private":true,"version":"0.1.0","type":"module","scripts":{"test":"node --test tests/*.test.mjs","check":"node --check src/catalog.js && node --check src/engine/CardViewer.js && node --check src/engine/foil.js && node --check src/engine/textures.js && node --check src/main.js && npm test"}}
