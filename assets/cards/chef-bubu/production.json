@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "chef-bubu",
+  "displayName": "厨师布",
+  "style": "C-holo-crystal",
+  "status": "concept-approved-assets-in-progress",
+  "reference": "third generated card concept selected on 2026-11-01 (stored in conversation artifact package, not yet copied into GitHub)",
+  "shared": {
+    "frame": "/assets/shared/frames/c-gold-crystal.svg",
+    "nameplate": "/assets/shared/nameplates/c-nameplate-blank.svg",
+    "foilReference": "/assets/shared/foils/c-rainbow-film.svg"
+  },
+  "exclusive": {
+    "character": null,
+    "backgroundClean": null,
+    "foreground": null,
+    "foilMask": null
+  },
+  "notes": [
+    "Existing SVG in assets/cards/chef-bubu/character.svg is an unapproved technical placeholder.",
+    "Real character must preserve accepted original style.",
+    "Create a subject-free kitchen clean plate before 2.5D rendering.",
+    "Do not substitute a full flattened card poster for independently editable layers."
+  ]
+}
