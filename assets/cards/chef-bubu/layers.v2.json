@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "id": "chef-bubu",
+  "style": "C-holo-crystal",
+  "status": "DRAFT_ONLY_IMAGES_IN_CONVERSATION_PACKAGE_NOT_ON_GITHUB",
+  "canvas": {
+    "width": 1086,
+    "height": 1448
+  },
+  "draftLayers": [
+    "background_kitchen_clean.png",
+    "character.png",
+    "foreground_props_DRAFT.png",
+    "foil_on_face_only.png",
+    "shared_lower_foil_decor_DRAFT.png",
+    "nameplate_reference_with_text.png",
+    "frame_from_concept_draft.png"
+  ],
+  "sharedComponents": [
+    "assets/shared/frames/c-gold-crystal.svg",
+    "assets/shared/nameplates/c-nameplate-blank.svg",
+    "assets/shared/foils/c-rainbow-film.svg"
+  ],
+  "notes": "Current live preview is still the prior low-quality placeholder. Do not point catalog to absent PNG files."
+}
